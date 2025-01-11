@@ -1960,3 +1960,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.01.11-17.21.30:989][953]LogSavePackage: Moving '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Saved/main_level5E199B19480D5524685F9BA717028943.tmp' to '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Content/main_level.umap'
 [2025.01.11-17.21.31:004][953]AssetCheck: New page: Asset Save: main_level
 [2025.01.11-17.21.31:004][953]LogContentValidation: Display: Validating World /Game/main_level.main_level
+[2025.01.11-17.22.19:003][ 79]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Marine_BP.Marine_BP
+[2025.01.11-17.22.22:653][471]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/charcater_bob11.charcater_bob11
+[2025.01.11-17.22.27:527][ 11]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.01.11-17.22.27:527][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-17.22.34:322][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.11-17.23.01:770][786]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.11-17.23.01:893][786]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.11-17.23.01:893][786]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.01.11-17.23.01:893][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-17.23.01:915][786]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/charcater_bob11.charcater_bob11
+[2025.01.11-17.23.02:495][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.11-17.23.02:517][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.11-17.23.02:525][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.11-17.23.02:534][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.01.11-17.23.03:969][933]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Marine_BP.Marine_BP
+[2025.01.11-17.23.09:945][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.11-17.23.09:955][605]LogSavePackage: Moving '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Saved/main_level179A57D74F6CF35A8135ED93CCC7972E.tmp' to '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Content/main_level.umap'
+[2025.01.11-17.23.09:969][605]AssetCheck: New page: Asset Save: main_level
+[2025.01.11-17.23.09:969][605]LogContentValidation: Display: Validating World /Game/main_level.main_level
+[2025.01.11-17.23.34:788][492]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.11-17.25.16:384][600]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddControllerPitchInput' [Nie można odnaleźć określonego modułu.]
+[2025.01.11-17.25.53:009][888]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.11-17.26.59:010][715]BlueprintLog: New page: Compile Marine_BP
+[2025.01.11-17.26.59:042][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.11-17.29.39:374][646]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.11-17.30.18:465][278]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.11-17.30.41:018][946]BlueprintLog: New page: Compile Marine_BP
+[2025.01.11-17.30.41:050][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.01.11-17.30.50:280][ 39]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.01.11-17.30.50:280][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-17.30.52:189][258]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Marine_BP.Marine_BP
+[2025.01.11-17.30.55:764][652]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.01.11-17.30.55:764][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-17.30.59:085][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.01.11-17.30.59:096][ 38]LogSavePackage: Moving '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Saved/main_levelEDC2FADC444A1616120474BC9E2890DC.tmp' to '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Content/main_level.umap'
+[2025.01.11-17.30.59:109][ 38]AssetCheck: New page: Asset Save: main_level
+[2025.01.11-17.30.59:110][ 38]LogContentValidation: Display: Validating World /Game/main_level.main_level
+[2025.01.11-17.31.08:116][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.11-17.31.08:127][114]LogSavePackage: Moving '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Saved/main_levelB9526CD34D6A5926260761B14E079346.tmp' to '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Content/main_level.umap'
+[2025.01.11-17.31.08:140][114]AssetCheck: New page: Asset Save: main_level
+[2025.01.11-17.31.08:140][114]LogContentValidation: Display: Validating World /Game/main_level.main_level
