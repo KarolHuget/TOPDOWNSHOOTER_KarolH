@@ -1945,3 +1945,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.01.11-17.13.22:654][175]LogSavePackage: Moving '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Saved/main_level2E426A7F4B8AE454C0BE31A3AF42A27B.tmp' to '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Content/main_level.umap'
 [2025.01.11-17.13.22:666][175]AssetCheck: New page: Asset Save: main_level
 [2025.01.11-17.13.22:667][175]LogContentValidation: Display: Validating World /Game/main_level.main_level
+[2025.01.11-17.15.28:915][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_powerUp.BP_powerUp
+[2025.01.11-17.18.05:625][921]BlueprintLog: New page: Compile BP_powerUp
+[2025.01.11-17.18.05:647][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.01.11-17.21.22:859][  9]BlueprintLog: New page: Compile BP_powerUp
+[2025.01.11-17.21.22:884][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.01.11-17.21.23:830][112]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.11-17.21.23:830][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.11-17.21.24:532][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.11-17.21.24:542][187]LogSavePackage: Moving '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Saved/main_level973C15BE429F97DA6535549552E504FA.tmp' to '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Content/main_level.umap'
+[2025.01.11-17.21.24:554][187]AssetCheck: New page: Asset Save: main_level
+[2025.01.11-17.21.24:554][187]LogContentValidation: Display: Validating World /Game/main_level.main_level
+[2025.01.11-17.21.30:979][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.11-17.21.30:989][953]LogSavePackage: Moving '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Saved/main_level5E199B19480D5524685F9BA717028943.tmp' to '../../../../../Documents/GitHub/TOPDOWNSHOOTER_KarolH/shooter_top_down-main/KH_SHOOTER/Content/main_level.umap'
+[2025.01.11-17.21.31:004][953]AssetCheck: New page: Asset Save: main_level
+[2025.01.11-17.21.31:004][953]LogContentValidation: Display: Validating World /Game/main_level.main_level
